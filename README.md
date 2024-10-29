@@ -1,4 +1,4 @@
-![Banner Photo](bannerPhoto.png){}
+![Banner Photo](bannerPhoto.png)
 # @JKBeeman-Pulmonx
 I'm a relatively chill guy that loves the outdoors, video games, and cooking with friends.
 
